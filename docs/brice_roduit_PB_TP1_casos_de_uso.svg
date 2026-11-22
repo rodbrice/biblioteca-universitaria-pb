@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1140 850" width="1140" height="850" font-family="Arial, Helvetica, sans-serif" fill="#111"><defs><marker id="seta" markerWidth="12" markerHeight="12" refX="10" refY="5" orient="auto"><path d="M1 1L10 5L1 9" fill="none" stroke="#222"/></marker><marker id="gen" markerWidth="18" markerHeight="18" refX="14" refY="8" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L14 8L1 15Z" fill="#fff" stroke="#222" stroke-width="1.3"/></marker></defs><rect width="1140" height="850" fill="#fff"/><rect x="215" y="30" width="710" height="770" fill="#fff" stroke="#222" stroke-width="1.5"/>
+<text x="570" y="55" font-size="15" text-anchor="middle" font-weight="bold">Sistema de Gestão de Biblioteca Universitária</text>
+<polyline points="100,382 100,110 475,110" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="124,412 236,212" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="128,418 235,338" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="130,426 475,460" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="130,434 476,576" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="1060,492 1060,110 665,110" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="1036,518 899,202" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="1034,523 899,292" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="1032,528 898,382" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="1030,534 664,465" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="1030,541 665,579" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="1032,548 899,633" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="1036,553 896,720" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="425,335 473,335" fill="none" stroke="#222" stroke-width="1.3" stroke-dasharray="6 4" marker-end="url(#seta)"/>
+<text x="449" y="324" font-size="11" text-anchor="middle" font-style="italic">«include»</text>
+<polyline points="570,426 570,371" fill="none" stroke="#222" stroke-width="1.3" stroke-dasharray="6 4" marker-end="url(#seta)"/>
+<text x="578" y="403" font-size="11" text-anchor="start" font-style="italic">«include»</text>
+<polyline points="570,676 570,616" fill="none" stroke="#222" stroke-width="1.3" stroke-dasharray="6 4" marker-end="url(#seta)"/>
+<text x="562" y="644" font-size="11" text-anchor="end" font-style="italic">«extend»</text>
+<text x="562" y="660" font-size="11" text-anchor="end">[devolução após o prazo]</text>
+<polyline points="100,590 100,498" fill="none" stroke="#222" stroke-width="1.3" marker-end="url(#gen)"/>
+<polyline points="38,644 38,590 162,590 162,644" fill="none" stroke="#222" stroke-width="1.3"/>
+<polyline points="100,644 100,590" fill="none" stroke="#222" stroke-width="1.3"/>
+<ellipse cx="570" cy="110" rx="95" ry="34" fill="#eef4fb" stroke="#222" stroke-width="1.3"/>
+<text x="570" y="106" font-size="11" text-anchor="middle" font-weight="bold">UC01</text>
+<text x="570" y="122" font-size="13" text-anchor="middle">Consultar acervo</text>
+<ellipse cx="330" cy="205" rx="95" ry="34" fill="#eef4fb" stroke="#222" stroke-width="1.3"/>
+<text x="330" y="193" font-size="11" text-anchor="middle" font-weight="bold">UC02</text>
+<text x="330" y="209" font-size="13" text-anchor="middle">Verificar</text>
+<text x="330" y="225" font-size="13" text-anchor="middle">disponibilidade</text>
+<ellipse cx="330" cy="335" rx="95" ry="34" fill="#eef4fb" stroke="#222" stroke-width="1.3"/>
+<text x="330" y="331" font-size="11" text-anchor="middle" font-weight="bold">UC03</text>
+<text x="330" y="347" font-size="13" text-anchor="middle">Reservar livro</text>
+<ellipse cx="570" cy="335" rx="95" ry="34" fill="#eef4fb" stroke="#222" stroke-width="1.3"/>
+<text x="570" y="323" font-size="11" text-anchor="middle" font-weight="bold">UC12</text>
+<text x="570" y="339" font-size="13" text-anchor="middle">Validar cadastro</text>
+<text x="570" y="355" font-size="13" text-anchor="middle">do membro</text>
+<ellipse cx="570" cy="460" rx="95" ry="34" fill="#eef4fb" stroke="#222" stroke-width="1.3"/>
+<text x="570" y="456" font-size="11" text-anchor="middle" font-weight="bold">UC04</text>
+<text x="570" y="472" font-size="13" text-anchor="middle">Realizar empréstimo</text>
+<ellipse cx="570" cy="580" rx="95" ry="34" fill="#eef4fb" stroke="#222" stroke-width="1.3"/>
+<text x="570" y="576" font-size="11" text-anchor="middle" font-weight="bold">UC05</text>
+<text x="570" y="592" font-size="13" text-anchor="middle">Realizar devolução</text>
+<ellipse cx="570" cy="710" rx="95" ry="34" fill="#eef4fb" stroke="#222" stroke-width="1.3"/>
+<text x="570" y="698" font-size="11" text-anchor="middle" font-weight="bold">UC06</text>
+<text x="570" y="714" font-size="13" text-anchor="middle">Calcular multa</text>
+<text x="570" y="730" font-size="13" text-anchor="middle">por atraso</text>
+<ellipse cx="805" cy="195" rx="95" ry="34" fill="#eef4fb" stroke="#222" stroke-width="1.3"/>
+<text x="805" y="183" font-size="11" text-anchor="middle" font-weight="bold">UC07</text>
+<text x="805" y="199" font-size="13" text-anchor="middle">Manter livros</text>
+<text x="805" y="215" font-size="13" text-anchor="middle">e exemplares</text>
+<ellipse cx="805" cy="285" rx="95" ry="34" fill="#eef4fb" stroke="#222" stroke-width="1.3"/>
+<text x="805" y="273" font-size="11" text-anchor="middle" font-weight="bold">UC08</text>
+<text x="805" y="289" font-size="13" text-anchor="middle">Regularizar</text>
+<text x="805" y="305" font-size="13" text-anchor="middle">exemplar</text>
+<ellipse cx="805" cy="375" rx="95" ry="34" fill="#eef4fb" stroke="#222" stroke-width="1.3"/>
+<text x="805" y="371" font-size="11" text-anchor="middle" font-weight="bold">UC09</text>
+<text x="805" y="387" font-size="13" text-anchor="middle">Manter membros</text>
+<ellipse cx="805" cy="640" rx="95" ry="34" fill="#eef4fb" stroke="#222" stroke-width="1.3"/>
+<text x="805" y="636" font-size="11" text-anchor="middle" font-weight="bold">UC10</text>
+<text x="805" y="652" font-size="13" text-anchor="middle">Gerenciar reservas</text>
+<ellipse cx="805" cy="730" rx="95" ry="34" fill="#eef4fb" stroke="#222" stroke-width="1.3"/>
+<text x="805" y="726" font-size="11" text-anchor="middle" font-weight="bold">UC11</text>
+<text x="805" y="742" font-size="13" text-anchor="middle">Gerenciar multas</text>
+<g stroke="#222" stroke-width="1.6" fill="none"><circle cx="100" cy="400.0" r="11.0" fill="#fff"/><path d="M100 411.0V444.0M80.0 424.0H120.0M100 444.0L84.0 468.0M100 444.0L116.0 468.0"/></g>
+<text x="100" y="486.0" font-size="14" text-anchor="middle" font-weight="bold">Membro</text>
+<g stroke="#222" stroke-width="1.6" fill="none"><circle cx="1060" cy="510.0" r="11.0" fill="#fff"/><path d="M1060 521.0V554.0M1040.0 534.0H1080.0M1060 554.0L1044.0 578.0M1060 554.0L1076.0 578.0"/></g>
+<text x="1060" y="596.0" font-size="14" text-anchor="middle" font-weight="bold">Bibliotecário /</text>
+<text x="1060" y="613.0" font-size="14" text-anchor="middle" font-weight="bold">Administrador</text>
+<g stroke="#222" stroke-width="1.6" fill="none"><circle cx="38" cy="656.0" r="8.8" fill="#fff"/><path d="M38 664.8V691.2M22.0 675.2H54.0M38 691.2L25.2 710.4M38 691.2L50.8 710.4"/></g>
+<text x="38" y="728.4" font-size="12" text-anchor="middle">Aluno</text>
+<g stroke="#222" stroke-width="1.6" fill="none"><circle cx="100" cy="656.0" r="8.8" fill="#fff"/><path d="M100 664.8V691.2M84.0 675.2H116.0M100 691.2L87.2 710.4M100 691.2L112.8 710.4"/></g>
+<text x="100" y="728.4" font-size="12" text-anchor="middle">Professor</text>
+<g stroke="#222" stroke-width="1.6" fill="none"><circle cx="162" cy="656.0" r="8.8" fill="#fff"/><path d="M162 664.8V691.2M146.0 675.2H178.0M162 691.2L149.2 710.4M162 691.2L174.8 710.4"/></g>
+<text x="162" y="728.4" font-size="12" text-anchor="middle">Funcionário</text><text x="570" y="830" font-size="12" text-anchor="middle">Diagrama de casos de uso — Brice Roduit — Projeto de Bloco (PB) — TP1</text></svg>
